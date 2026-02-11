@@ -109,9 +109,7 @@
 <div align="center">
   
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zaxsql)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/[USERNAME_IG])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[USERNAME_LINKEDIN])
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://kusoft.fun)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ambadev7)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azaxsql@gmail.com)
 </div>
 
@@ -121,7 +119,7 @@
 
 <div align="center">
   
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/[SPOTIFY_ID])
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/)
 
 </div>
 
@@ -129,12 +127,10 @@
 
 <div align="center">
   
-### 💖 Support My Work
-[![Saweria](https://img.shields.io/badge/Saweria-FFA500?style=for-the-badge&logo=ko-fi&logoColor=white)](https://saweria.co/[USERNAME_LO])
-[![Trakteer](https://img.shields.io/badge/Trakteer-FF0000?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://trakteer.id/[USERNAME_LO])
+### 💖 © 2026 azaxm all rights reserved
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-**⭐️ From [NAMA_LO](https://github.com/[USERNAME_GITHUB])**
+**⭐️ From azaxm (https://github.com/zax-universe)**
 
 </div>
