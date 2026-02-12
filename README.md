@@ -112,25 +112,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ambadev7)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azaxsql@gmail.com)
 </div>
-
-<br/>
-
-## 🎵 Currently Vibing To
-
-<div align="center">
-  
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/)
-
-</div>
-
----
-
-<div align="center">
-  
-### 💖 © 2026 azaxm all rights reserved
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-
-**⭐️ From azaxm (https://github.com/zax-universe)**
-
-</div>
