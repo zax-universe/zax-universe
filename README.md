@@ -1,7 +1,10 @@
 <h1 align="center">
-  <img src="coding.gif" width="500">
+  <video autoplay loop muted playsinline width="500">
+    <source src="https://files.catbox.moe/8rda84.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
   <br>
-  Hi There! 👋 I'm azam!
+  Hi There! 👋 I'm azam from java!
 </h1>
 
 <h3 align="center">Developer & engineer</h3>
