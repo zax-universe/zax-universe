@@ -1,5 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+azam from java!;" />
+  <img src="coding.gif" width="500">
+  <br>
+  Hi There! 👋 I'm azam!
 </h1>
 
 <h3 align="center">Developer & engineer</h3>
