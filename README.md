@@ -173,9 +173,9 @@ Saya percaya bahwa kode yang baik bukan hanya yang berjalan, tapi yang mudah dip
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AzamTukam&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=8B5CF6&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=zax-universe&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=8B5CF6&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" height="175"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzamTukam&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=6" alt="Top Languages" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zax-universe&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=6" alt="Top Languages" height="175"/>
 
 <br/><br/>
 
