@@ -8,28 +8,27 @@
 
 ---
 
-## 👋 Tentang Saya
+## about me
 
 <div align="center">
-Halo! Saya AzamTukam — seorang Fullstack Developer dari Indonesia. Saya membangun solusi digital yang komprehensif dari frontend hingga backend, bot otomatis cerdas, aplikasi mobile, hingga programming language baru. Setiap kode adalah karya seni yang dimulai dengan visi dan disempurnakan dengan passion.
+`Hi! I'm AzamTukam — a Fullstack Developer from Indonesia. I build comprehensive digital solutions from frontend to backend, from intelligent automated bots, mobile apps, to programming.
 
 </div>
 
-Saya percaya bahwa teknologi harus mudah diakses dan solusi yang baik harus scalable. Dari website responsif, bot WhatsApp pintar, hingga membuat bahasa pemrograman sendiri — saya siap menghadapi tantangan!
-
-- 🌐 **Web Development** — Frontend & Backend dengan berbagai stack modern
-- 🤖 **Bot Automation** — WhatsApp, Telegram, Discord dengan fitur canggih
-- 📱 **Mobile Development** — Flutter untuk aplikasi cross-platform
-- 🎮 **Game Development** — Game boosting dan optimization tools
-- 🔐 **Security Tools** — CVE Scanner, vulnerability detection
-- 🗣️ **Language Creator** — Membuat Ngawi Programming Language dari nol
-- 🧠 **Quiz & Learning** — Platform edukasi interaktif
-- 🔗 **Microservices & Scalability** — Arsitektur modern untuk aplikasi besar
-- 💼 **Open untuk** — Kolaborasi, freelance, kontribusi open-source
+I believe that technology should be accessible and good solutions should be scalable. From responsive websites to smart WhatsApp bots to creating your own programming language—I'm ready to take on the challenges.
+- **Web Development** — Frontend & Backend dengan berbagai stack modern
+- **Bot Automation** — WhatsApp, Telegram, Discord dengan fitur canggih
+- **Mobile Development** — Flutter untuk aplikasi cross-platform
+- **Game Development** — Game boosting dan optimization tools
+- **Security Tools** — CVE Scanner, vulnerability detection
+- **Language Creator** — Membuat Ngawi Programming Language dari nol
+- **Quiz & Learning** — Platform edukasi interaktif
+- **Microservices & Scalability** — Arsitektur modern untuk aplikasi besar
+- **Open untuk** — Kolaborasi, freelance, kontribusi open-source
 
 ---
 
-## 🛠️ Tech Stack & Keahlian
+## Tech Stack & Keahlian
 
 ### 〔 Languages 〕
 
@@ -90,9 +89,9 @@ Saya percaya bahwa teknologi harus mudah diakses dan solusi yang baik harus scal
 
 ---
 
-## 📦 Showcase Proyek
+## Showcase Proyek
 
-### 🌐 Web Development & Portfolio
+### Web Development & Portfolio
 
 | Proyek | Deskripsi | Tech Stack | Link |
 |--------|-----------|-----------|------|
@@ -100,7 +99,7 @@ Saya percaya bahwa teknologi harus mudah diakses dan solusi yang baik harus scal
 | **[AzXM Portfolio](https://github.com/zax-universe/azxm-portfolio)** | Portfolio profesional dengan design modern | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) | [→](https://github.com/zax-universe/azxm-portfolio) |
 | **[Zax Portfolio](https://github.com/zax-universe/zax-protofolio)** | Web portfolio showcase | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php) | [→](https://github.com/zax-universe/zax-protofolio) |
 
-### 🤖 Bot & Automation
+### Bot & Automation
 
 | Proyek | Deskripsi | Tech Stack | Link |
 |--------|-----------|-----------|------|
@@ -109,27 +108,27 @@ Saya percaya bahwa teknologi harus mudah diakses dan solusi yang baik harus scal
 | **[YuukinaMD](https://github.com/zax-universe/YuukinaMD)** | Advanced WhatsApp Bot dengan AI | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs) | [→](https://github.com/zax-universe/YuukinaMD) |
 | **[AmbaBotMD](https://github.com/zax-universe/ambabotMD)** | Bot WhatsApp multifunction | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs) | [→](https://github.com/zax-universe/ambabotMD) |
 
-### 📱 Mobile & Security
+### Mobile & Security
 
 | Proyek | Deskripsi | Tech Stack | Link |
 |--------|-----------|-----------|------|
 | **[CVE-2026-APK](https://github.com/zax-universe/CVE-2026-APK)** | CVE Scanner dibuat dengan Flutter | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart) | [→](https://github.com/zax-universe/CVE-2026-APK) |
 
-### 🎮 Game & Performance Tools
+### Game & Performance Tools
 
 | Proyek | Deskripsi | Tech Stack | Link |
 |--------|-----------|-----------|------|
 | **[GameBooster](https://github.com/zax-universe/GameBooster)** | Game performance optimization tool | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript) | [→](https://github.com/zax-universe/GameBooster) |
 | **[Game Booter](https://github.com/zax-universe/Game-Booter)** | Gaming performance enhancer | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) | [→](https://github.com/zax-universe/Game-Booter) |
 
-### 🧠 Education & Learning Platform
+### Education & Learning Platform
 
 | Proyek | Deskripsi | Tech Stack | Link |
 |--------|-----------|-----------|------|
 | **[QuizCodex](https://github.com/zax-universe/quizcodex)** | Platform kuis interaktif untuk pembelajaran coding | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript) | [→](https://github.com/zax-universe/quizcodex) |
 | **[Coding-X](https://github.com/zax-universe/coding-x)** | Platform pembelajaran programming | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript) | [→](https://github.com/zax-universe/coding-x) |
 
-### 🗣️ Programming Language & Compiler
+### Programming Language & Compiler
 
 | Proyek | Deskripsi | Tech Stack | Link |
 |--------|-----------|-----------|------|
@@ -137,7 +136,7 @@ Saya percaya bahwa teknologi harus mudah diakses dan solusi yang baik harus scal
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -153,7 +152,7 @@ Saya percaya bahwa teknologi harus mudah diakses dan solusi yang baik harus scal
 
 ---
 
-## 🚀 Skill Highlights
+## Skill Highlights
 
 <div align="center">
 
@@ -165,13 +164,13 @@ Saya percaya bahwa teknologi harus mudah diakses dan solusi yang baik harus scal
 | **Database Design** | Expert | MySQL, MongoDB optimization |
 | **Language Design** | Intermediate | Compiler, Interpreter (Go) |
 | **Game Optimization** | Intermediate | Performance tuning |
-| **Security** | Intermediate | CVE scanning, vulnerability assessment |
+| **Cyber Security** | Intermediate | CVE scanning, vulnerability assessment |
 
 </div>
 
 ---
 
-## 📚 Sedang Dipelajari & Eksplorasi
+## Sedang Dipelajari & Eksplorasi
 
 Saya terus berkembang dan mempelajari teknologi terbaru:
 
@@ -188,7 +187,7 @@ Saya terus berkembang dan mempelajari teknologi terbaru:
 
 ---
 
-## 🤝 Mari Berkolaborasi!
+## Mari Berkolaborasi!
 
 Punya proyek menarik? Ingin berkolaborasi? Atau sekadar diskusi tentang teknologi — saya selalu antusias!
 
@@ -224,8 +223,7 @@ Punya proyek menarik? Ingin berkolaborasi? Atau sekadar diskusi tentang teknolog
 
 <br/><br/>
 
-<sub>© 2026 AzamTukam | Fullstack Developer | Indonesia 🇮🇩</sub>
+<sub>© 2026 AzamTukam </sub>
 <br/>
-<sub>Dibuat dengan ❤️ | Open for collaboration 🚀</sub>
 
 </div>
