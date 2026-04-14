@@ -1,19 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Azxm&fontSize=100&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20Security%20Researcher%20%7C%20Bot%20Developer%20%7C&descAlignY=58&descSize=17" />
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=1000&lines=Hi+there!+👋+I'm+Azxm+%7C+Zax+Universe;Full+Stack+Developer+%26+Software+Engineer;Bot+Developer+(WhatsApp+%26+Telegram+🤖);Penetration+Tester+%7C+Cyber+Security+🔐;REST+API+%26+Web+Portfolio+Developer;Laravel+%7C+Node.js+%7C+Express+%7C+PHP;CTF+Player+%7C+CVE+Researcher+%7C+OSINT;Open+Source+Enthusiast+from+Indonesia+🇮🇩;SMK+RPL+Student+—+Always+Learning+🚀" alt="Typing SVG" />
-  </a>
 </div>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 <div align="center">
 
   [![GitHub followers](https://img.shields.io/github/followers/zax-universe?style=for-the-badge&logo=github&color=8b5cf6&logoColor=white)](https://github.com/zax-universe?tab=followers)
   [![GitHub Stars](https://img.shields.io/github/stars/zax-universe?style=for-the-badge&logo=github&color=8b5cf6&logoColor=white)](https://github.com/zax-universe?tab=repositories&sort=stargazers)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-  [![Saweria](https://img.shields.io/badge/Saweria-FF5E00?style=for-the-badge&logo=ko-fi&logoColor=white)](https://saweria.co/zax-universe)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amba-dev)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ambadev7)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azaxsql@email.com)
 
 </div>
 
@@ -63,15 +58,6 @@
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--               CONTRIBUTION SNAKE ANIMATION                 -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zax-universe/zax-universe/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zax-universe/zax-universe/output/github-contribution-grid-snake.svg">
-  <img alt="snake" src="https://raw.githubusercontent.com/zax-universe/zax-universe/output/github-contribution-grid-snake.svg">
-</picture>
-
 ---
 
 ## 👨‍💻 About Me
@@ -83,7 +69,6 @@ Name        : Azxm (Zax Universe)
 Location    : Indonesia 🇮🇩
 Education   : SMK RPL — Software Engineering
 Status      : Open to Collaborate 🤝
-Languages   : Bahasa Indonesia 🇮🇩 | English 🇺🇸
 
 Expertise:
   ◆ Full Stack Web & App Development
@@ -95,25 +80,19 @@ Expertise:
   ◆ Software Engineering & Problem Solving
 
 Currently:
-  🔭 Building CVE tools & security research
-  🌱 Deepening Golang, Flutter & Pentest
-  🤖 Developing multi-platform bots
-  💡 Exploring CTF, Malware & OSINT
-  🎓 Student @ SMK RPL
-
-Fun Facts:
-  ⚡ I break things to understand them
-  🔐 Security first, features second
-  🚀 From zero to full stack at SMK age
+   Building CVE tools & security research
+   Deepening Golang, Flutter & Pentest
+   Developing multi-platform bots
+   Exploring CTF, Malware & OSINT
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
-### 💻 Programming Languages
+### Programming Languages
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,py,php,java,c,cpp,go,dart&perline=9" />
@@ -133,7 +112,7 @@ Fun Facts:
 
 </div>
 
-### 🌐 Frontend & Mobile
+### Frontend & Mobile
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,next,html,css,tailwind,flutter&perline=6" />
@@ -150,7 +129,7 @@ Fun Facts:
 
 </div>
 
-### ⚙️ Backend & Framework
+### Backend & Framework
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,fastapi&perline=4" />
@@ -167,7 +146,7 @@ Fun Facts:
 
 </div>
 
-### 🤖 Bot Development
+### Bot Development
 
 <div align="center">
 
@@ -179,7 +158,7 @@ Fun Facts:
 
 </div>
 
-### 🗄️ Database
+### Database
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite,firebase&perline=5" />
@@ -195,7 +174,7 @@ Fun Facts:
 
 </div>
 
-### 🔐 Cyber Security & Penetration Testing
+### Cyber Security & Penetration Testing
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=kali,linux&perline=2" />
@@ -227,7 +206,7 @@ Fun Facts:
 
 </div>
 
-### 🧰 Tools & Platform
+### Tools & Platform
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,androidstudio&perline=6" />
@@ -247,7 +226,7 @@ Fun Facts:
 
 ---
 
-## 📊 GitHub Profile Summary & Metrics
+## GitHub Profile Summary & Metrics
 
 <div align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zax-universe&theme=radical" alt="Profile Details" />
@@ -269,18 +248,13 @@ Fun Facts:
 
 ---
 
-## 📈 GitHub Statistics & Activity
+## GitHub Statistics & Activity
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zax-universe&theme=react-dark&bg_color=transparent&color=8b5cf6&line=8b5cf6&point=ffffff&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 <br>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zax-universe&show_icons=true&theme=radical&hide_border=true&bg_color=transparent&icon_color=8b5cf6&title_color=8b5cf6&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zax-universe&layout=compact&theme=radical&hide_border=true&bg_color=transparent&title_color=8b5cf6&text_color=ffffff&langs_count=10" alt="Top Languages" />
-</div>
 
 <br>
 
@@ -289,134 +263,53 @@ Fun Facts:
 </div>
 
 ---
-
-## ⏱️ WakaTime Coding Stats
-
-> ⚠️ *Install WakaTime extension di VS Code → daftar di [wakatime.com](https://wakatime.com) → ganti `YOUR_WAKATIME_USERNAME` di bawah ini.*
-
-<div align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=radical&hide_border=true&bg_color=transparent&title_color=8b5cf6&text_color=ffffff&layout=compact" alt="WakaTime Stats" />
-</div>
-
----
-
-## 🎵 Spotify Now Playing
-
-> ⚠️ *Setup di [spotify-github-profile.kittinanx.com](https://spotify-github-profile.kittinanx.com) → login Spotify → ganti `YOUR_SPOTIFY_UID`.*
-
-<div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=8b5cf6&bar_color_cover=true" alt="Spotify Now Playing" width="400" />
-  </a>
-</div>
-
----
-
-## 🗓️ 3D Contribution Calendar
-
-> ⚠️ *Aktifkan dengan GitHub Action: [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) → file akan auto-generate di repo.*
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/zax-universe/zax-universe/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="100%" />
-</div>
-
----
-
-## 🏆 CTF & Competitive Hacking
-
+## Projects And Tools
 <div align="center">
 
-  [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_USERNAME)
-  [![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/YOUR_ID)
-
-</div>
-
-<div align="center">
-
-| Area | Tools / Techniques |
-|------|--------------------|
-| 🕵️ **OSINT** | Shodan, Google Dorks, TheHarvester, Maltego |
-| 💉 **Web Attacks** | SQLi, XSS, CSRF, LFI/RFI, SSRF, IDOR |
-| 🔓 **Exploitation** | Metasploit, CVE PoC, APK Reverse, Buffer Overflow |
-| 🔐 **Auth Bypass** | Brute Force, JWT Cracking, Hydra, Hashcat |
-| 📡 **Network** | Nmap, Wireshark, Netcat, Tcpdump, ARP Spoofing |
-| 📱 **Mobile** | APK Analysis, Frida, Jadx, MobSF |
-| 🧪 **Fuzzing** | ffuf, Gobuster, Dirbuster, WFuzz |
+| Tools / Techniques |
+|---------------------------|
+|  Shodan, Google Dorks, TheHarvester, Maltego |
+|  SQLi, XSS, CSRF, LFI/RFI, SSRF, IDOR |
+|  Metasploit, CVE PoC, APK Reverse, Buffer Overflow |
+|  Brute Force, JWT Cracking, Hydra, Hashcat |
+|  Nmap, Wireshark, Netcat, Tcpdump, ARP Spoofing |
+|  APK Analysis, Frida, Jadx, MobSF |
+|  ffuf, Gobuster, Dirbuster, WFuzz |
 
 </div>
 
 ---
-
-## 📌 Featured & Pinned Projects
-
-<div align="center">
-  <h3>🎯 Top Repositories</h3>
-</div>
-
-<div align="center">
-  <a href="https://github.com/zax-universe/Reverse-Engineering">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=zax-universe&repo=Reverse-Engineering&theme=radical&hide_border=true&bg_color=transparent" alt="Reverse-Engineering" />
-  </a>
-  <a href="https://github.com/zax-universe/quizcodex">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=zax-universe&repo=quizcodex&theme=radical&hide_border=true&bg_color=transparent" alt="quizcodex" />
-  </a>
-</div>
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/zax-universe/CVE-2026-APK">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=zax-universe&repo=CVE-2026-APK&theme=radical&hide_border=true&bg_color=transparent" alt="CVE-2026-APK" />
-  </a>
-  <a href="https://github.com/zax-universe/coding-x">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=zax-universe&repo=coding-x&theme=radical&hide_border=true&bg_color=transparent" alt="coding-x" />
-  </a>
-</div>
 
-<br>
-
-<div align="center">
-  <a href="https://github.com/zax-universe/azxm-portfolio">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=zax-universe&repo=azxm-portfolio&theme=radical&hide_border=true&bg_color=transparent" alt="azxm-portfolio" />
-  </a>
-  <a href="https://github.com/zax-universe/GameBooster">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=zax-universe&repo=GameBooster&theme=radical&hide_border=true&bg_color=transparent" alt="GameBooster" />
-  </a>
-</div>
-
----
-
-## 🚀 Currently Working On
+## Currently Working On
 
 <div align="center">
 
 | Status | Details |
 |--------|---------|
-| 🔭 **Building** | Security tools, CVE research & web apps |
-| 🌱 **Learning** | Golang, Flutter, Advanced Pentesting |
-| 🤖 **Developing** | WhatsApp & Telegram bots using Baileys |
-| 🌐 **Working On** | REST API & Portfolio with PHP / Laravel |
-| 💡 **Exploring** | CTF Challenges, Malware Analysis, OSINT |
-| 👯 **Open To** | Collab on security & full stack projects |
-| 🤔 **Help Wanted** | Security audits, code reviews, pentesting |
-| 🎓 **Studying** | SMK RPL — Software Engineering |
+| **Building** | Security tools, CVE research & web apps |
+| **Learning** | Golang, Flutter, Advanced Pentesting |
+| **Developing** | WhatsApp & Telegram bots using Baileys |
+| **Working On** | REST API & Portfolio with PHP / Laravel |
+| **Exploring** | CTF Challenges, Malware Analysis, OSINT |
+| **Open To** | Collab on security & full stack projects |
+| **Help Wanted** | Security audits, code reviews, pentesting |
+| **Studying** | SMK RPL — Software Engineering |
 
 </div>
 
 ---
 
-## 💻 My Dev Setup
+## My Dev Setup
 
 <div align="center">
 
 | Component | Details |
 |-----------|---------|
-| 💻 **OS** | Kali Linux / Windows dual boot |
-| 🖊️ **Editor** | VS Code |
-| 🐚 **Terminal** | Zsh + Oh My Zsh |
-| 🌐 **Browser** | Firefox Developer Edition |
-| 🎧 **Music** | Spotify while coding |
-| 📦 **Package Manager** | npm / pip / composer |
+| 💻 **OS** | Kali Linux / Windows dual boot and Termux |
+| 🖊️ **Editor** | VS Code and Acode |
 
 </div>
 
@@ -442,30 +335,15 @@ Fun Facts:
 
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio.example.com)
-  [![TryHackMe](https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_USERNAME)
-  [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/YOUR_ID)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amba-dev)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ambadev7)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azaxsql@email.com)
 
 </div>
 
 ---
 
-## ☕ Support My Work
-
-<div align="center">
-
-  [![Saweria](https://img.shields.io/badge/Support%20via%20Saweria-FF5E00?style=for-the-badge&logo=ko-fi&logoColor=white)](https://saweria.co/zax-universe)
-  [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com)
-
-</div>
-
----
-
-## 📊 Visitor Counter
+## Visitor Counter
 
 <div align="center">
 
